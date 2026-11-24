@@ -1,4 +1,4 @@
-\# Simulador de Onda Base y Perturbación por Pulso (Arduino + Processing)
+\#Simulador de Onda Base y Perturbación por Pulso (Arduino + Processing)
 
 
 
